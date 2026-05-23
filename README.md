@@ -24,15 +24,6 @@ In addition to the interactive dashboard, a comprehensive **Data Storytelling & 
 
 ---
 
-## 📈 Key Strategic Discoveries
-The analytical deep-dive exposed three major operational bottlenecks:
-
-*   **The Product Mirage (Tables & Bookcases):** Tables ranked as our 2nd highest revenue sub-category (\$46.1k) but incurred a devastating net loss of **-\$3.1k** due to a massive **26.6% average discount rate** combined with heavy bulk shipping overheads.
-*   **The Geographical Trap (The Texas Disaster):** Texas generated our 3rd largest revenue stream (\$50.6k) but triggered a catastrophic net loss of **-\$9.1k**. Data attributes this directly to an unviable **36.9% average discount rate per order** (compared to California’s controlled 7.1% discount, which brought \$12.6k in pure profit).
-*   **The Customer Illusion (Sean Miller Account):** Our top loyal buyer by gross volume, Sean Miller (\$23.6k in sales), cost the company a net loss of **-\$1.7k** by strategically exploiting promotional codes on low-margin items.
-
----
-
 ## 🎨 Business Intelligence & Dashboard UI Design
 The visualization layout was structurally pre-planned and conceptualized in **Canva** to achieve a modern, dark-themed, and distraction-free UI container system. It was then dynamically mapped in **Power BI Desktop** utilizing strict DAX data modeling:
 
@@ -46,14 +37,14 @@ The visualization layout was structurally pre-planned and conceptualized in **Ca
 
 ### 📄 Page 1: Corporate Overview & Financial Health
 *Focuses on high-level KPIs, monthly sales vs. profit divergence, and baseline segment contributions.*
-![Page 1: Overview](images/FIRST.png)
+![Page 1: Overview](FIRST.png)
 
 ### 📄 Page 2: Product Performance & Manufactory Deep-Dive
 *Exposes product margin vulnerabilities, supply chain bottlenecks, and underperforming manufacturers.*
-![Page 2: Product Deep-Dive](images/SECOND.png)
+![Page 2: Product Deep-Dive](SECOND.png)
 
 ### 📄 Page 3: Geographical Logistics & Customer Loyalty Insights
 *An interactive live map view detailing geographical discount leakage and comprehensive account audits.*
-![Page 3: Logistics & Geography](images/THIRD.png)
+![Page 3: Logistics & Geography](THIRD.png)
 
 ---
