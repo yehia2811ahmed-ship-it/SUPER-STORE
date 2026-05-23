@@ -20,7 +20,7 @@ Before data ingestion into the BI layer, a strict data cleaning and format optim
 ---
 
 ## 📖 Executive Data Storytelling Report (PDF)
-In addition to the interactive dashboard, a comprehensive **Data Storytelling & Strategic Report (PDF)** is currently being developed for the client. This report delivers a detailed narrative explaining exactly what is happening inside their data, paired with actionable corporate recommendations to recover leaking margins.
+In addition to the interactive dashboard, a comprehensive **Data Storytelling & Strategic Report (PDF)** is developed for the client. This report delivers a detailed narrative explaining exactly what is happening inside their data, paired with actionable corporate recommendations to recover leaking margins.
 
 ---
 
